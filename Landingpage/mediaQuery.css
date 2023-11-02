@@ -1,0 +1,38 @@
+@media only screen and (max-width: 900px) { 
+
+     .content {
+        left: 25%;
+     }
+
+
+    .content h1{
+        font-size: 3.5rem;
+       
+        
+    }
+    .content  .p1{
+        font-size: 2rem!important;
+    }
+
+    .main-img  img{
+       height: 20rem;
+       margin-top: 20%;
+    } 
+
+    nav ul li{
+        display: none;
+    }
+   
+   
+}
+
+@media(max-width: 900px) {
+       .none {
+        display: block !important;
+        font-size: 2rem;
+       }
+
+       footer img {
+        height: 450px;
+       }
+}
