@@ -20,7 +20,6 @@ main{
 .main-img {
     position: relative;
     max-width: 100%;
- 
 }
 
 .main-img img{
@@ -36,6 +35,8 @@ nav .icon{
     color: rgb(255, 255, 255);
     margin-right: 5px;
 }
+
+
 
 nav ul li a{
     text-decoration: none;
@@ -175,7 +176,7 @@ footer ul li{
 footer ul li a {
     margin: 0.5rem;
   font-weight: bold;
-font-size: 1.2rem;
+  font-size: 1.2rem;
 } 
 
 footer ul li p {
